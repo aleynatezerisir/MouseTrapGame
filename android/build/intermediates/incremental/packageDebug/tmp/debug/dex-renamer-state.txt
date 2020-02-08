@@ -1,0 +1,4 @@
+#Fri Jan 17 12:37:19 EET 2020
+base.0=C\:\\Users\\CIG\\Desktop\\Shadid's MouseTrap\\MouseTrap\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
